@@ -3,7 +3,7 @@
 ## Prague, Czech Republic, 3-5 July, 2023 
 
 ## Conference details
-**Conference website**: https://www.iccs-meeting.org/iccs2023/
+**Conference website**: [https://www.iccs-meeting.org/iccs2023/](https://www.iccs-meeting.org/iccs2023/)
 
 The ICCS conferences are ranked as [CORE A](http://portal.core.edu.au/conf-ranks/). Accepted and presented papers will be published by Springer in the Lecture Notes in Computer Science (LNCS). The best papers will be invited for a special issue of the [Journal of Computational Science](https://www.sciencedirect.com/journal/journal-of-computational-science).
 
@@ -40,22 +40,21 @@ The central aim of this track is to bring together the prominent members of the 
 ### Scientific Programme Committee / Chairs
 Currently being assambled...
 
-## Submission details
+## Manuscript submission details
 
-During submission, you may select either a “Full/Short Paper” or a “Abstract Only” publication. You can also define your preference for an oral or poster presentation. Please understand that this is only a preference. The presentation type of accepted submissions will ultimately be defined by the Organizing Committee and communicated in the notification email.
+During submission, you may select either a _“Full/Short Paper”_ or a _“Abstract Only”_ publication. You can also define your preference for an oral or poster presentation. Please understand that this is only a preference. The presentation type of accepted submissions will ultimately be defined by the Organizing Committee and communicated in the notification email.
 
 While we encourage full paper submissions, the “Abstract Only” option caters to researchers who can only publish in specific journals or work for companies in circumstances such that they cannot publish at all, but still want to present their work and discuss it with their peers at ICCS. In the “Abstract Only” option, a short abstract is included in the conference program, but not in LNCS.
 
 The best papers will be invited for a special issue of the Journal of Computational Science
 
-### Submission steps
+### Steps to submit
 
-1. Manuscripts are submitted via EasyChair. Look for the "Paper submission" link on the conference (website)[https://www.iccs-meeting.org/iccs2023/].
+1. **Manuscripts are submitted via EasyChair**. Look for the "Paper submission" link on the conference [website](https://www.iccs-meeting.org/iccs2023/).
 
-2. Prepare the manuscripts: Abstract up to 2 pages, Short Paper up to 7 pages and Full Paper up to 14 pages, written in English and formatted according to the Springer LNCS templates. The templates are available for download in EasyChair on the ICCS 2023 submission page (horizontal menu "Templates").
-During submission, you may select either a “Full/Short Paper” or a “Abstract Only” publication. Oral presentation is the default. If you prefer to present a poster, please check the “Poster Presentation” option in the submission page.
-Note: a short abstract (up to 2 pages) is included in the conference program, but not in LNCS.
+2. **Prepare the manuscripts**: Abstract up to _2 pages_, Short Paper up to _7 pages_ and Full Paper up to _14 pages_, written in English and formatted according to the Springer LNCS templates. The templates are available for download in EasyChair on the ICCS 2023 submission page (horizontal menu "Templates").
+During submission, you may select either a _“Full/Short Paper”_ or an _“Abstract Only”_ publication. Oral presentation is the default. If you prefer to present a poster, please check the “Poster Presentation” option in the submission page.
+**Note**: a short abstract (up to 2 pages) is included in the conference program, but not in LNCS.
 
-3. Submit your paper to the ICCS 2022 submission site in EasyChair
-Choose the following track when being prompted for "Select a Track": Computational modelling of cellular mechanics
+3. **Submit your paper** to the ICCS 2023 submission site in EasyChair. Choose the following track when being prompted for "Select a Track": Computational modelling of cellular mechanics
 
