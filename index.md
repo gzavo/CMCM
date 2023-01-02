@@ -1,1 +1,61 @@
-Content here.
+# CMCM 2023
+
+## Prague, Czech Republic, 3-5 July, 2023 
+
+## Conference details
+**Conference website**: https://www.iccs-meeting.org/iccs2023/
+
+The ICCS conferences are ranked as [CORE A](http://portal.core.edu.au/conf-ranks/). Accepted and presented papers will be published by Springer in the Lecture Notes in Computer Science (LNCS). The best papers will be invited for a special issue of the [Journal of Computational Science](https://www.sciencedirect.com/journal/journal-of-computational-science).
+
+## Important dates
+- Paper submission: 3 February 2023
+- Notification to authors: 3 April 2023
+- Camera-ready papers: 21 April 2023
+- Author registration: 3 – 21 April 2023
+- Non-author registration (in-person): 3 April – 2 June 2023
+- Non-author registration (online): 3 April – 21 June 2023
+- Conference sessions: 3-5 July 2023
+
+## Track description
+
+**Organisers**: Gabor Zavodszky (University of Amsterdam); Igor V. Pivkin (USI Lugano)
+
+The computational modelling of cell mechanics plays a pivotal role in the research of numerous biological processes: in the flow and interaction of red blood cells in blood, the extravasation of leukocytes, or the growth and metastasis of tumour cells. 
+In order to answer the complex emerging challenges, the researchers need to explore, develop, validate, and apply novel computational models.
+
+The central aim of this track is to bring together the prominent members of the field to discuss ideas, challenges, and state-of-the-art solutions to the key questions at the forefront of cellular mechanics research. These discussions will focus on numerical techniques and on the connection of these techniques to complementary experiments.
+
+### Main topics include
+
+- Cell growth
+- Cytoskeletal network
+- Rheology and red blood cells
+- Platelet margination
+- Cell migration
+- Cell mechanosensing
+- Viscoelastic behaviour of cells
+- Cell extravasation
+- Micromanipulation techniques (optical tweezer, atomic force microscopy, micropipettes, etc.)
+
+### Scientific Programme Committee / Chairs
+Currently being assambled...
+
+## Submission details
+
+During submission, you may select either a “Full/Short Paper” or a “Abstract Only” publication. You can also define your preference for an oral or poster presentation. Please understand that this is only a preference. The presentation type of accepted submissions will ultimately be defined by the Organizing Committee and communicated in the notification email.
+
+While we encourage full paper submissions, the “Abstract Only” option caters to researchers who can only publish in specific journals or work for companies in circumstances such that they cannot publish at all, but still want to present their work and discuss it with their peers at ICCS. In the “Abstract Only” option, a short abstract is included in the conference program, but not in LNCS.
+
+The best papers will be invited for a special issue of the Journal of Computational Science
+
+### Submission steps
+
+1. Manuscripts are submitted via EasyChair. Look for the "Paper submission" link on the conference (website)[https://www.iccs-meeting.org/iccs2023/].
+
+2. Prepare the manuscripts: Abstract up to 2 pages, Short Paper up to 7 pages and Full Paper up to 14 pages, written in English and formatted according to the Springer LNCS templates. The templates are available for download in EasyChair on the ICCS 2023 submission page (horizontal menu "Templates").
+During submission, you may select either a “Full/Short Paper” or a “Abstract Only” publication. Oral presentation is the default. If you prefer to present a poster, please check the “Poster Presentation” option in the submission page.
+Note: a short abstract (up to 2 pages) is included in the conference program, but not in LNCS.
+
+3. Submit your paper to the ICCS 2022 submission site in EasyChair
+Choose the following track when being prompted for "Select a Track": Computational modelling of cellular mechanics
+
