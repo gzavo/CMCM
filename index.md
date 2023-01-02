@@ -1,20 +1,9 @@
 # CMCM 2023
 
-## Prague, Czech Republic, 3-5 July, 2023 
-
 ## Conference details
 **Conference website**: [https://www.iccs-meeting.org/iccs2023/](https://www.iccs-meeting.org/iccs2023/)
 
 The ICCS conferences are ranked as [CORE A](http://portal.core.edu.au/conf-ranks/). Accepted and presented papers will be published by Springer in the Lecture Notes in Computer Science (LNCS). The best papers will be invited for a special issue of the [Journal of Computational Science](https://www.sciencedirect.com/journal/journal-of-computational-science).
-
-## Important dates
-- Paper submission: 3 February 2023
-- Notification to authors: 3 April 2023
-- Camera-ready papers: 21 April 2023
-- Author registration: 3 – 21 April 2023
-- Non-author registration (in-person): 3 April – 2 June 2023
-- Non-author registration (online): 3 April – 21 June 2023
-- Conference sessions: 3-5 July 2023
 
 ## Track description
 
