@@ -25,9 +25,19 @@ The central aim of this track is to bring together the prominent members of the 
 - Viscoelastic behaviour of cells
 - Cell extravasation
 - Micromanipulation techniques (optical tweezer, atomic force microscopy, micropipettes, etc.)
+- von Willebrand Factor mechanics
+- Glycocalyx interaction
 
 ### Scientific Programme Committee / Chairs
 Currently being assambled...
+
+| Member | Affiliation |
+| ------ | ----------- |
+| Mahdi Saeedipour | Johannes Kepler University (Austria) |
+| Alexander Alexeev | Georgia Tech (USA) |
+| George Lykotrafitis | University of Connecticut (USA) |
+| Gokberk Kabacaoglu | Bilkent University (Turkey) |
+
 
 ## Manuscript submission details
 
