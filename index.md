@@ -14,7 +14,7 @@ In order to answer the complex emerging challenges, the researchers need to expl
 
 The central aim of this track is to bring together the prominent members of the field to discuss ideas, challenges, and state-of-the-art solutions to the key questions at the forefront of cellular mechanics research. These discussions will focus on numerical techniques and on the connection of these techniques to complementary experiments.
 
-### Main topics include
+### Main topics include (but not limited to):
 
 - Cell growth
 - Cytoskeletal network
