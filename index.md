@@ -29,14 +29,16 @@ The central aim of this track is to bring together the prominent members of the 
 - Glycocalyx interaction
 
 ### Scientific Programme Committee / Chairs
-Currently being assambled...
 
 | Member | Affiliation |
 | ------ | ----------- |
-| Mahdi Saeedipour | Johannes Kepler University (Austria) |
-| Alexander Alexeev | Georgia Tech (USA) |
-| George Lykotrafitis | University of Connecticut (USA) |
+| Alexander Alexeev | Georgia Tech (US) |
+| Alessandra Bonfanti | Politecnico di Milano (Italy) |
+| Ming Dao | MIT (US) |
 | Gokberk Kabacaoglu | Bilkent University (Turkey) |
+| George Lykotrafitis | University of Connecticut (US) |
+| Mahdi Saeedipour | Johannes Kepler University (Austria) |
+
 
 
 ## Manuscript submission details
