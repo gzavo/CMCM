@@ -28,17 +28,18 @@ The central aim of this track is to bring together the prominent members of the 
 - von Willebrand Factor mechanics
 - Glycocalyx interaction
 
-### Scientific Programme Committee / Chairs
+### Scientific Programme Committee
 
 | Member | Affiliation |
 | ------ | ----------- |
 | Alexander Alexeev | Georgia Tech (US) |
 | Alessandra Bonfanti | Politecnico di Milano (Italy) |
+| Ivan Cimrák | University of Zilina (Slovakia) |
 | Ming Dao | MIT (US) |
 | Gokberk Kabacaoglu | Bilkent University (Turkey) |
+| Xuejin Li | Zhejiang University (China) |
 | George Lykotrafitis | University of Connecticut (US) |
 | Mahdi Saeedipour | Johannes Kepler University (Austria) |
-
 
 
 ## Manuscript submission details
